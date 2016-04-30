@@ -1,0 +1,17 @@
+---
+layout: page
+title: 每天进步一点点...
+permalink: /history/
+category:
+tags:
+excerpt:
+---
+
+<h3 class="text-center">每天进步一点点...</h3>
+<hr>
+
+<ul>
+    {% for post in site.posts %}
+    <li><a href="{{ site.baseurl }}/{{ post.date | date: '%Y/%m/%d' }}">{{ post.title }}</a><span class="right">{{ post.date | date: "%Y-%m-%d" }}</span></li>
+    {% endfor %}
+</ul>

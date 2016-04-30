@@ -575,6 +575,11 @@ blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, block
     display: inline-flex;
 }
 
+.page h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
 .post-contents {
     max-width: 250px;
     position: fixed;
@@ -642,4 +647,8 @@ blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, block
     .partner-logos ul li img {
         height: 2.5em;
     }
+}
+
+.love {
+    color: #ff0000;
 }
