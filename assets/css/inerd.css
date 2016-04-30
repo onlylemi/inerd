@@ -580,6 +580,13 @@ blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, block
     margin-top: 20px;
 }
 
+.page img,
+.sub-url{
+    clear: both;
+    display: block;
+    margin:auto;
+}
+
 .post-contents {
     max-width: 250px;
     position: fixed;
