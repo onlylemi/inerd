@@ -12,6 +12,6 @@ excerpt:
 
 <ul>
     {% for post in site.posts %}
-    <li><a href="{{ site.baseurl }}/{{ post.date | date: '%Y/%m/%d' }}">{{ post.title }}</a><span class="right">{{ post.date | date: "%Y-%m-%d" }}</span></li>
+    <li><a href="/{{ post.date | date: '%Y/%m/%d' }}">{{ post.title }}</a><span class="right">{{ post.date | date: "%Y-%m-%d" }}</span></li>
     {% endfor %}
 </ul>
