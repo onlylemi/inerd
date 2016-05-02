@@ -4,7 +4,7 @@ title:
 ---
 
 {% for post in site.posts limit: 1 %}
-<h3>{{ post.date | date: "%m月%d日" }}：{{ post.title }}<a href="{{ site.baseurl }}/history">history</a></h3>
+<h3>{{ post.date | date: "%m月%d日" }}：{{ post.title }}</h3>
 {{ post.content }}
 <hr>
 <h3>Message</h3>
