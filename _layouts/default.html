@@ -16,16 +16,17 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
     <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}{{ site.avatar }}"/>
-    <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.js"></script>
-    <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//cdn.bootcss.com/jquery/2.2.1/jquery.js"></script>
+    <script type="text/javascript" src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <script>
 $(document).ready(function(){
   $("#recommend-submit").click(function(){
-    $.get("http://www.w3school.com.cn/example/jquery/demo_test.asp",function(data, status){
+    $.getJSON("http://www.w3school.com.cn/example/jquery/demo_test.asp", function(data, status){
       //alert(data);
       $("#recommend-finder").val(data);
     });
+    //$("#recommend-url").val("-----");
   });
 });
 </script>
