@@ -10,5 +10,28 @@ permalink: /about/
 
 如果你也想加入我们这个大家庭，赶快联系我！欢迎一起交流、合作。
 
-* Email: [onlylemi.com@gamil.com](mailto:onlylemi.com@gamil.com)
+* Email: [onlylemi.com(AT)gmail.com](mailto:onlylemi.com@gmail.com)
 * Wechat：@xiaomi-0623
+
+
+---
+
+<h3>Message</h3>
+<!-- 多说评论框 start -->
+
+<div class="ds-thread" data-thread-key="/about/" data-title="{{ page.title }}" data-url="/about/"></div>
+
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"inerdcc"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0]
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
