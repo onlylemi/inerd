@@ -7,7 +7,10 @@ title:
 <h3>{{ post.date | date: "%m月%d日" }}：{{ post.title }}</h3>
 {{ post.content }}
 <hr>
-<h3>Message</h3>
-{% include duoshuo.html %}
+
+<div id="comments" class="comments">
+    <h3>Message</h3>
+    {% include duoshuo.html %}
+</div>
 {% endfor %}
 

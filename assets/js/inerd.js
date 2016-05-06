@@ -53,11 +53,15 @@ $(document).ready(function() {
     }
 
 
-
-
-
-
-
-
+      /* sidebar-right */
+    $(".js-scroll-top").click(function() {
+        $("html,body").animate({ scrollTop: $("#wrapper-masthead").offset().top }, 1000)
+    });
+    $(".js-scroll-comment").click(function() {
+        $("html,body").animate({ scrollTop: $("#comments").offset().top }, 1000)
+    });
+    $(".js-scroll-down").click(function() {
+        $("html,body").animate({ scrollTop: $("#wrapper-footer").offset().top }, 1000)
+    });
 
 });

@@ -5,6 +5,8 @@ layout: default
 <div class="posts">
     <h3>{{ page.date | date: "%m月%d日" }}：{{ page.title }}</h3>
     {{ content }}
-    <h3>Message</h3>
-    {% include duoshuo.html %}
+    <div id="comments" class="comments">
+        <h3>Message</h3>
+        {% include duoshuo.html %}
+    </div>
 </div>
