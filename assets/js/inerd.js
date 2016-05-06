@@ -15,7 +15,7 @@ $(document).ready(function() {
         var finder = $("#sub-url-finder").val();
 
         if (url == "") {
-            alert("\n\n请输入干货 URL 地址 ！！！\n\n");
+            alert("\n\n老大，您的干货 URL 地址呢，我怎么没看到！\n\n");
             return;
         }
 
@@ -25,7 +25,7 @@ $(document).ready(function() {
         }
 
         if (finder == "") {
-            alert("\n\n请输入您的大名，让我们知道您 ！！！\n\n");
+            alert("\n\n老大，请留下您的大名！！！\n\n");
             return;
         }
 
@@ -33,12 +33,13 @@ $(document).ready(function() {
         // alert(request_url);
         $.getJSON(request_url, { "type": type, "finder": finder, "url": url }, function(data) {
             if (data.state == "exist") {
-                alert("\n\n不好意思，您提交的资源链接已经存在了！！！\n\n");
+                alert("\n\n老大，您提交的资源已经被其他人提交了！\n\n换一个试试！\n\n");
             } else if (data.state == "success") {
                 alert("\n\n非常感谢，您提交的资源我们已经收到！\n\n");
             } else if (data.state == "none") {
                 alert("\n\n服务器正在维护中，请稍等！！！\n\n");
             }
+            $("#sub-url").val("");
         });
     });
 

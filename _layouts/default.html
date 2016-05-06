@@ -16,9 +16,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
     <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/img/logo.png"/>
-    <script type="text/javascript" src="//cdn.bootcss.com/jquery/2.2.1/jquery.js"></script>
-    <script type="text/javascript" src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/inerd.js"></script>
+
 
 </head>
 
@@ -34,10 +32,10 @@
             </div>
 
             <nav>
+                <a href="{{ site.baseurl }}/blogs/">Blogs</a>
                 <a href="{{ site.baseurl }}/works/">Works</a>
                 <a href="{{ site.baseurl }}/resource/">Resource</a>
                 <a href="{{ site.baseurl }}/workshop/">Workshop</a>
-                <a href="{{ site.baseurl }}/history/">History</a>
                 <a href="{{ site.baseurl }}/about/">About</a>
             </nav>
         </header>
@@ -60,5 +58,9 @@
 </div>
 
 {% include analytics.html %}
+
+<script type="text/javascript" src="//cdn.bootcss.com/jquery/2.2.1/jquery.js"></script>
+<script type="text/javascript" src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/inerd.js"></script>
 </body>
 </html>
