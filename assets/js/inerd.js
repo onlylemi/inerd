@@ -7,6 +7,10 @@
 
 $(document).ready(function() {
 
+    if (location.hostname != "inerd.cc" && location.hostname != "localhost") {
+        location.href = "http://inerd.cc";
+    }
+
 
     // 提交 url 地址
     $("#sub-url-submit").click(function() {
