@@ -7,9 +7,9 @@
 
 $(document).ready(function() {
 
-    if (location.hostname != "inerd.cc" && location.hostname != "localhost") {
+    /*if (location.hostname != "inerd.cc" && location.hostname != "localhost") {
         location.href = "http://inerd.cc";
-    }
+    }*/
 
 
     // 提交 url 地址
