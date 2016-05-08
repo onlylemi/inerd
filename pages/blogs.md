@@ -15,6 +15,12 @@ excerpt:
 
 ---
 
+
+* `周宁奕` [7年.设计师的码农路(上)](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483673&idx=1&sn=1bc21055b6bb37341f4bca24845c894d&scene=4#wechat_redirect)
+* `周宁奕` [7年.设计师的码农路(下)](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483675&idx=1&sn=8c11ebf5d20ead1e0a7ba935ad7a937c&scene=0#wechat_redirect)
+* [`霍霜霜`](http://shuangshuanghuo.net/) [一个摄影师，一个艺术家，一个设计师，一个生活感悟者](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=216500118&idx=1&sn=1dc1c545d881e478f7844fd47a8a5082&scene=7#wechat_redirect)
+* [`妄為`](http://weibo.com/ww1way) [互动软件学习笔记](http://learn.travelchinawith.me/)
+* [`Wenzy`](http://wenzy.zcool.com.cn) [量化绘画－写给程序员的趣味绘画指南（1）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=400025770&idx=1&sn=1f74796b72043e4aecf94e8c037b0086&scene=1&srcid=0501i8mXz9KK9xX76KphRdIq#wechat_redirect)
 * [`周宁奕`](http://mp.weixin.qq.com/profile?src=3×tamp=1462500154&ver=1&signature=UcEWMhWeISQiGpIvonx2sHnKYE6PaiRoxr4zZIuR3sXPtpiX4-EinRIgLz4X-kygn3hKB7UwA2Cocq3sSizvTQ==) [一条数据狗的上海买房攻略](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483702&idx=1&sn=77e9a058ce5088d3e41eabb1df8022ed&scene=0#wechat_redirect)
 * [`任远`](http://yuanren.cc) [任远 - 生成设计－基于算法的设计方法](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=224291223&idx=1&sn=4ab8918f98594b6d29af098e690770d4&scene=1&srcid=0501um91rEfv75gA9c7KOrKD#wechat_redirect)
 * [`任远`](http://yuanren.cc) [任远 - 生成设计－一张照片的16种玩法](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=224458206&idx=1&sn=785299d1d2c1f2522493d53e946bd29e&scene=1&srcid=0501BWgZhYk6mogeZO8k4wFm#wechat_redirect)

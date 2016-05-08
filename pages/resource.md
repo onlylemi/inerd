@@ -13,6 +13,10 @@ excerpt:
 
 ### Processing
 
+* [`极客工坊`]() [Processing之旅系列教程——极客工坊](http://www.geek-workshop.com/forum.php?mod=forumdisplay&fid=74&filter=digest&digest=1)
+* [`Prezi_暗流`](http://weibo.com/prezinb) [Processing制作WWDC2014风格的宣传画](http://tieba.baidu.com/p/3082888560)
+* [`Prezi_暗流`](http://weibo.com/prezinb) [Processing中制作沙粒溶解动画：智慧从乌合之众中涌现](http://tieba.baidu.com/p/3067870119)
+* [`Wenzy`](http://wenzy.zcool.com.cn) [Processing 小技巧 - 制作GIF动图](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=208343679&idx=1&sn=eda9c77e3ee97d50fe428a91ca105504&scene=1&srcid=0501QH8UOeUox6sRk7P32SKk#wechat_redirect)
 * [`Prezi_暗流`](http://weibo.com/prezinb) [兴趣是最好的苍老师——入门 Processing 你应该知道的事](http://tieba.baidu.com/p/3444008850)
 * [`vinjn张静`](http://vinjn.github.io/) [Processing Month（Processing入门一月通）](https://github.com/vinjn/hudo.it/tree/master/ProcessingMonth)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [创意编程工具安装向导－Processing 与 Openframeworks](http://mp.weixin.qq.com/s?src=3×tamp=1462288766&ver=1&signature=*vpkPm0M2cJ0O4jcEwPMO1*UocCaEgzlXvgFPQejEOJrHBqhbC9buEhADtG-3Sz*zbMBhb9za4dS9piTH04Ut6k8Z8OhdSWpyyICE62MqGIVieyha8hWX5ffPFXLBCVpaZy9eXdNBD*-*aDK-IFvLFVx2XOZ4XMSp*itO8velmw=)
@@ -22,3 +26,7 @@ excerpt:
 * [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的编程趣味指南－（2）创造第一个PROCESSING程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206431158&idx=1&sn=c9eaa81b6887f613240dbddf15044872&scene=1&srcid=0501CPaQbvlMemTyy9c4JsDN#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的编程趣味指南－（1）PROCESSING初接触](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206393408&idx=1&sn=bdbffc722a7e18cd70d4f6656e0be71d&scene=1&srcid=0501e2enZMCfwEYDlpUAnKcj#wechat_redirect)
 * [`onlylemi`](http://onlylemi.com) [一个 Processing 与 Android 交互的库](https://onlylemi.github.io/projects/processing-android-capture/)
+
+### Music Visual
+
+* [`onlylemi`](http://onlylemi.com) [任远老师在OF COURSE音乐可视化liveingcoding代码](https://github.com/onlylemi/MusicVisual) (onlylemi)
