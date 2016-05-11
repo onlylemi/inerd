@@ -15,7 +15,12 @@ excerpt:
 
 ---
 
-
+* [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 拖延症怎么办？数据如何可视化？小艾来教你](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=218485552&idx=1&sn=45bfde6749dcbbb542d4fef7f286d593&scene=1&srcid=0509qru0hXfLRyGPakR2xaIT&from=groupmessage&isappinstalled=0#wechat_redirect)
+* `周宁奕` [莆田系医院清洗日记](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483711&idx=1&sn=e53b3ebd5321ab8d6144467241ff1a34&scene=0#wechat_redirect)
+* `周宁奕` [密码漫游记](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483682&idx=1&sn=6d7bb94cfa71770016d7300f54a5ae78&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [用创意编程打造动态画板](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=400693935&idx=1&sn=c35ec4e0d2b1e97308b3b9cc4825f6b3&scene=4#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [动动手指，让你脑洞大开的旋转画板](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=401521834&idx=1&sn=108708b36e61d1ba574a561f0445fdc2&scene=4#wechat_redirect)
+* [`Wenzy`](http://wenzy.zcool.com.cn) [写给程序员的趣味绘画指南（2）－ 形的训练](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=402971830&idx=1&sn=634011f4f986467e5ea4f46ed40ea0c4&scene=1&srcid=0501tQGjj2sP3flE7ckEAu7R#wechat_redirect)
 * `周宁奕` [7年.设计师的码农路(上)](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483673&idx=1&sn=1bc21055b6bb37341f4bca24845c894d&scene=4#wechat_redirect)
 * `周宁奕` [7年.设计师的码农路(下)](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483675&idx=1&sn=8c11ebf5d20ead1e0a7ba935ad7a937c&scene=0#wechat_redirect)
 * [`霍霜霜`](http://shuangshuanghuo.net/) [一个摄影师，一个艺术家，一个设计师，一个生活感悟者](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=216500118&idx=1&sn=1dc1c545d881e478f7844fd47a8a5082&scene=7#wechat_redirect)

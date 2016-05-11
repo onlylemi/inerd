@@ -15,6 +15,11 @@ excerpt:
 
 ---
 
+* [`广美新媒介设计教研室`](http://weibo.com/newmedia001?is_all=1) [【Mapping】大闹天宫，将现代技术与名著相结合重现经典](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478229&idx=2&sn=76e146e60369d534078a5f2923eae15a&scene=2&srcid=0511MWNJLE9s1UR5bTv5zclG&from=timeline&isappinstalled=0#wechat_redirect)
+* [`Marshmallow Laser Fe`](http://marshmallowlaserfeast.com/) [凭借VR进入动物视角探寻自然](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092463&idx=1&sn=1e3811a462550ef0839d9ac907a7a7da&scene=0#wechat_redirect)
+* [`任远`](http://yuanren.cc) [Human = Science](http://yuanren.cc/human-science/)
+* [`Bwave`](http://bwave.org) [我与我交换了平行空间的维度 - Pixel Echo XII 现场回放](http://mp.weixin.qq.com/s?__biz=MzA4MjMwMTA5Ng==&mid=2650985256&idx=1&sn=931114e561e165a8d5688e13342f5234&scene=1&srcid=05099N3u4aJFOtCvju6L0XiY&from=groupmessage&isappinstalled=0#wechat_redirect)
+* `CandyBook` [AR增强现实作品 · 那些年那座城，祝妈妈们节日快乐！](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478195&idx=1&sn=706f36484e2ac40f63bac761224221f1&scene=0#wechat_redirect)
 * [`曹雨西`](http://www.caoyuxi.org/) [Mo墨｜奥兰多LAKENONA建筑投影公共艺术](http://mp.weixin.qq.com/s?__biz=MzAxNjc4NzQxMQ==&mid=402661612&idx=1&sn=4b11c5b2a7d9db190075df3c34667b1e&scene=2&srcid=0408wa955JLGeskomVTfpvbm&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Bwave`](http://bwave.org) [【Bwave】白小墨+钱泓霖“光”新媒体装置艺术节开幕演出片段](http://mp.weixin.qq.com/s?__biz=MzA4MjMwMTA5Ng==&mid=2650985252&idx=1&sn=1e1790f4204a0d8376a16a740499a002&scene=0#wechat_redirect)
 * [`Bwave`](http://bwave.org) [Feedback Zen - 洪启乐“光”新媒体装置艺术节开幕演出片段](http://mp.weixin.qq.com/s?__biz=MzA4MjMwMTA5Ng==&mid=2650985200&idx=1&sn=fb73076e7f94786191d92479c85b6f7d&scene=0#wechat_redirect)

@@ -13,6 +13,10 @@ excerpt:
 
 ### Processing
 
+* `Lee` [Generative Design读书笔记](http://www.arduino.cn/thread-5345-1-1.html)
+* [`Processing知乎专栏`](https://www.zhihu.com/topic/19605971/top-answers) [apple store里的这幅图如何用processing、Photoshop或者AI做出来？](https://www.zhihu.com/question/27917305)
+* [`Processing知乎专栏`](https://www.zhihu.com/topic/19605971/top-answers) [这种透明LOWPOLY效果是怎么做出来的？](https://www.zhihu.com/question/36987369)
+* [`Prezi_暗流`](http://weibo.com/prezinb) [Processing中制作光晕（发光）效果及导出动画为gif](http://tieba.baidu.com/p/3088764775)
 * [`极客工坊`]() [Processing之旅系列教程——极客工坊](http://www.geek-workshop.com/forum.php?mod=forumdisplay&fid=74&filter=digest&digest=1)
 * [`Prezi_暗流`](http://weibo.com/prezinb) [Processing制作WWDC2014风格的宣传画](http://tieba.baidu.com/p/3082888560)
 * [`Prezi_暗流`](http://weibo.com/prezinb) [Processing中制作沙粒溶解动画：智慧从乌合之众中涌现](http://tieba.baidu.com/p/3067870119)
