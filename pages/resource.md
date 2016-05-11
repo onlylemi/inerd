@@ -31,6 +31,10 @@ excerpt:
 * [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的编程趣味指南－（1）PROCESSING初接触](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206393408&idx=1&sn=bdbffc722a7e18cd70d4f6656e0be71d&scene=1&srcid=0501e2enZMCfwEYDlpUAnKcj#wechat_redirect)
 * [`onlylemi`](http://onlylemi.com) [一个 Processing 与 Android 交互的库](https://onlylemi.github.io/projects/processing-android-capture/)
 
+### Openframeworks
+
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect) (onlylemi)
+
 ### Music Visual
 
-* [`onlylemi`](http://onlylemi.com) [任远老师在OF COURSE音乐可视化liveingcoding代码](https://github.com/onlylemi/MusicVisual) (onlylemi)
+* [`onlylemi`](http://onlylemi.com) [任远老师在OF COURSE音乐可视化liveingcoding代码](https://github.com/onlylemi/MusicVisual)
