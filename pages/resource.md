@@ -33,7 +33,7 @@ excerpt:
 
 ### Openframeworks
 
-* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect) (onlylemi)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect)
 
 ### Music Visual
 
