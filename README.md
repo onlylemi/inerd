@@ -6,3 +6,11 @@
 
 * Email: [onlylemi.com(AT)gmail.com](mailto:onlylemi.com@gmail.com)
 * Wechat：@xiaomi-0623
+
+---
+
+## History
+
+* `2016-05-11` [技术与艺术相结合，总会带来意想不到的惊喜](http://inerd.cc/2016/05/11/)
+* `2016-05-08` [7年.设计师的码农路](http://inerd.cc/2016/05/08/)
+* `2016-05-06` [『 i ♥ nerd 』今天开始，创意编程将变得不再陌生](http://inerd.cc/2016/05/06/)
