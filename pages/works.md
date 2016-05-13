@@ -15,6 +15,13 @@ excerpt:
 
 ---
 
+* [`kAi`](http://www.dkaib.com/) [DOWNLOAD YOUR EMOTIONS](http://v.youku.com/v_show/id_XMTU2Njk4OTEzMg==.html?x)
+* [`霍霜霜`](http://shuangshuanghuo.net/) [All in Pieces](https://vimeo.com/127665422)
+* [`某集体`](http://www.moujiti.com/) [数字故宫 - V故宫来啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTc0MDU2NA==&mid=2651288651&idx=1&sn=d2b12db2b1868b090f38d7e2bcc688c6&scene=2&srcid=0429QuKCQNxcdKy4Rjo86HaD&from=timeline&isappinstalled=0#wechat_redirect)
+* [`任远`](http://yuanren.cc) [Fruit Remix](http://yuanren.cc/fruit-remix/)
+* [`任远`](http://yuanren.cc) [Harder Better Faster Stronger](http://yuanren.cc/harder-better-faster-stronger/)
+* [`Kingspray`](http://graffitisimulator.com/) [超逼真VR墙绘Kingspray Graffiti Simulator](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092793&idx=1&sn=e6bc76043f694806add680ab46823665&scene=0#wechat_redirect)
+* `HI- LTTE` [超震撼的3D裸眼灯光秀，看了就停不下来！](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650266993&idx=1&sn=aff68b203c70b2fa53b7b6eb56052695&scene=0#wechat_redirect)
 * [`广美新媒介设计教研室`](http://weibo.com/newmedia001?is_all=1) [【Mapping】大闹天宫，将现代技术与名著相结合重现经典](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478229&idx=2&sn=76e146e60369d534078a5f2923eae15a&scene=2&srcid=0511MWNJLE9s1UR5bTv5zclG&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Marshmallow Laser Fe`](http://marshmallowlaserfeast.com/) [凭借VR进入动物视角探寻自然](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092463&idx=1&sn=1e3811a462550ef0839d9ac907a7a7da&scene=0#wechat_redirect)
 * [`任远`](http://yuanren.cc) [Human = Science](http://yuanren.cc/human-science/)

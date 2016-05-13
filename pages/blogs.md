@@ -15,6 +15,11 @@ excerpt:
 
 ---
 
+* [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 周宁奕——阿里巴巴数据可视化工程师、@数学的美学世界创始人](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=400506180&idx=1&sn=1d2af618426e9e740608d44c0d30559b&scene=2&srcid=1021X0gaRkQbHXwt2Imxwcir&from=timeline&isappinstalled=0#wechat_redirect)
+* [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 张俊——致我们悄然逝去的青春](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=407105803&idx=1&sn=09e0afe4abee9fabadc8a0d6a079af1c&scene=2&srcid=1208mxdxMiAcQ4aNxwX413re&from=timeline&isappinstalled=0#wechat_redirect)
+* [`OF COURSE`](http://www.ofcourse.io) [数据可视化作品分享 - 陈小艾讲座全记录](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092836&idx=1&sn=1d0c8fce01660a9baae6d9f05d39911e&scene=0#wechat_redirect)
+* [`马海平`](https://music.douban.com/musician/128247/) [马海平：一位未来主义音乐人眼中的城市之光](https://m.douban.com/music/review/7891765/?from=groupmessage&isappinstalled=0)
+* [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 平面设计你懂多少？好的idea又如何表达？kAi和你聊聊](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=219452070&idx=1&sn=fa965004d629d7b17cf8f95cca92e7af&scene=19#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 拖延症怎么办？数据如何可视化？小艾来教你](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=218485552&idx=1&sn=45bfde6749dcbbb542d4fef7f286d593&scene=1&srcid=0509qru0hXfLRyGPakR2xaIT&from=groupmessage&isappinstalled=0#wechat_redirect)
 * `周宁奕` [莆田系医院清洗日记](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483711&idx=1&sn=e53b3ebd5321ab8d6144467241ff1a34&scene=0#wechat_redirect)
 * `周宁奕` [密码漫游记](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483682&idx=1&sn=6d7bb94cfa71770016d7300f54a5ae78&scene=0#wechat_redirect)

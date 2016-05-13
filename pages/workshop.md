@@ -8,15 +8,22 @@ permalink: /workshop/
 
 ---
 
-[![](https://coding.net/u/onlylemi/p/img/git/raw/master/ofcourse_xiaoai.jpg)](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092754&idx=1&sn=7dd3490cccd06883530f35b068b4bb46&scene=1&srcid=050926AQx5QWaxPjBLwcr87e&from=groupmessage&isappinstalled=0#wechat_redirect)
+[![](https://coding.net/u/onlylemi/p/img/git/raw/master/2016_05_14.jpg)](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092793&idx=3&sn=49f2ccf6309fdf0621b9c851d8fd55a3&scene=0#wechat_redirect)
 
 ---
 
-* ![](https://img.shields.io/badge/OF COURSE-2016--05--12-5bc0de.svg) [OF微讲座 - 数据可视化作品分享-陈小艾](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092754&idx=1&sn=7dd3490cccd06883530f35b068b4bb46&scene=1&srcid=050926AQx5QWaxPjBLwcr87e&from=groupmessage&isappinstalled=0#wechat_redirect)
-* ![](https://img.shields.io/badge/ Next DJ-2016--06--08-5bc0de.svg) [DJ KRUSH中国巡演开启，内有福利送给你！](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650266976&idx=1&sn=92fc0af8f227e459f838fe5c990c4a7d&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--07--18-5bc0de.svg) [互联网创意应用Javascript创意编程Workshop7月18至24日](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092793&idx=4&sn=1e12feda41e2274ccb56c260a59f76e7&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--05--30-5bc0de.svg) [虚拟现实 - 为设计爱好者度身定制的Unity Workshop5月30至6月10日](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092793&idx=3&sn=49f2ccf6309fdf0621b9c851d8fd55a3&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/DJ Shufflemaster-2016--05--26-5bc0de.svg) [【巡演福利】老炮儿 DJ Shufflemaster 中国巡演!](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650267005&idx=1&sn=bf907ce5175db51e09cfe20e71d3462c&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/信息与交互设计-2016--05--25-5bc0de.svg) [IIDC交互 & 游戏工作坊开始报名了！！](http://mp.weixin.qq.com/s?__biz=MzAwMzE2ODg3NQ==&mid=2649961286&idx=1&sn=faac741bd77b9c9d7d231277a0933759&scene=2&srcid=0511Vjo97WVGOXjdc9Ba88RB&from=timeline&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/中央美术学院-2016--05--18-97CA00.svg) [毕业季 - 发生·发声——2016中央美院毕业季来了！](http://mp.weixin.qq.com/s?__biz=MzA4MDk2ODczNA==&mid=2651938380&idx=1&sn=dc5b1ce17fe31f97f8c0130283d609e4&scene=2&srcid=0513Vp9cexlj8SNqp3r5Wvsx&from=timeline&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/中央美术学院数码媒体工作室-2016--05--16-5bc0de.svg) [Workshop - 设计建立生物追踪系统并创造性的数字化映射其数据](http://mp.weixin.qq.com/s?__biz=MzA5ODYyNDA5Nw==&mid=2650105385&idx=1&sn=1bb2cab0cb64adeb31c914c243f3fd4f&scene=1&srcid=0513X7VtgQgtr7ceAaApKcmf&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/SIVA美术学院-2016--05--11-97CA00.svg) [NO MONEY NO ART - 一次不可错过的展览！](http://mp.weixin.qq.com/s?__biz=MzI2MzA1ODExNw==&mid=2651361269&idx=1&sn=13ed4ced23aca79db8106eced86e0a03&scene=1&srcid=0509GsFXNPiCq1wibMQlGD27&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--08--01-5bc0de.svg) [暑假课程-Max/MSP+Arduino影音互动课程8月1日至7日](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092779&idx=1&sn=290cb000a09b25e13b12a46b7d62f64b&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/看见音乐-2016--05--29-5bc0de.svg) [ING·独立音乐 正在发声](http://www.kanjian.com/event/ing529)
 * ![](https://img.shields.io/badge/CAC-2016--05--14-5bc0de.svg) [【CAC·活动】放映与短 - 生命幻景 第一场](http://mp.weixin.qq.com/s?__biz=MjM5NzU4NDM5NA==&mid=2650755725&idx=1&sn=7161ba97cd465b610e93a2835ec938d2&scene=0#wechat_redirect)
-* ![](https://img.shields.io/badge/OF COURSE-2016--08--01-5bc0de.svg) [暑假课程-Max/MSP+Arduino影音互动课程8月1日至7日](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092779&idx=1&sn=290cb000a09b25e13b12a46b7d62f64b&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--05--12-5bc0de.svg) [OF微讲座 - 数据可视化作品分享-陈小艾](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092754&idx=1&sn=7dd3490cccd06883530f35b068b4bb46&scene=1&srcid=050926AQx5QWaxPjBLwcr87e&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/ Next DJ-2016--06--08-5bc0de.svg) [DJ KRUSH中国巡演开启，内有福利送给你！](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650266976&idx=1&sn=92fc0af8f227e459f838fe5c990c4a7d&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/Bwave-2016--05--07-5bc0de.svg) [Pixel Echo XII - 视听艺术表演](http://mp.weixin.qq.com/s?timestamp=1462096117&src=3&ver=1&signature=JS22iDzUst*0wRLpcLAyR3d-n-FnvFUaS6EEfcXw06byEtQ7h*tZVSZlw1m361K6OFnKotBKg4x4iGBEjLVkslN0BmO7GUOwcVX-kiMUu16R40jfpodifBXnvH5yh3I6-9vfu4qlCr5vWIqp1OFUezHkEoqZCEGYH1OwDDuBM5Y=)
 * ![](https://img.shields.io/badge/OF COURSE-2016--04--29-97CA00.svg) [回顾：眼前一亮！第二届OF COURSE SHOW回顾](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092735&idx=1&sn=0420046b0b2e3234bd70e3736984c452&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/OF COURSE-2016--04--29-97CA00.svg) [【第二届OF COURSE SHOW】OF COURSE SHOW 诚邀您体验音画互动科技！](http://ofcourse.huodongxing.com/event/3331604901800)
