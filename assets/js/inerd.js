@@ -13,7 +13,7 @@ $(document).ready(function() {
         if (isWeixin && window.location.hostname == "inerd.cc") {
             window.location.href = "http://inerd.onlylemi.com" + window.location.pathname;
         }
-        if (!isWeixin && window.location.hostname == "inerd.onlylem.com") {
+        if (!isWeixin && window.location.hostname == "inerd.onlylemi.com") {
             window.location.href = "http://inerd.cc" + window.location.pathname;
         }
     }
