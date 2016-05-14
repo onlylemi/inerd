@@ -4,7 +4,7 @@ title:
 ---
 
 {% for post in site.posts limit: 1 %}
-<h3>{{ post.date | date: "%m月%d日" }}：{{ post.title }}</h3>
+<h3 id="index-title">{{ post.date | date: "%m月%d日" }}：{{ post.title }}</h3>
 {{ post.content }}
 <hr>
 
@@ -13,4 +13,3 @@ title:
     {% include duoshuo.html %}
 </div>
 {% endfor %}
-
