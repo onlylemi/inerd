@@ -7,9 +7,16 @@
 
 $(document).ready(function() {
 
-    /*if (location.hostname != "inerd.cc" && location.hostname != "localhost") {
-        location.href = "http://inerd.cc";
-    }*/
+    var ua = navigator.userAgent.toLowerCase();
+    var isWeixin = ua.indexOf('micromessenger') != -1;
+    if (window.location.hostname != "localhost") {
+        if (isWeixin && window.location.hostname == "inerd.cc") {
+            window.location.href = "http://inerd.onlylemi.com" + window.location.pathname;
+        }
+        if (!isWeixin && window.location.hostname == "inerd.onlylem.com") {
+            window.location.href = "http://inerd.cc" + window.location.pathname;
+        }
+    }
 
 
     // 提交 url 地址
@@ -52,12 +59,12 @@ $(document).ready(function() {
         var re = new RegExp(regex);
         if (re.test(url)) {
             return true;
-        } 
+        }
         return false;
     }
 
 
-      /* sidebar-right */
+    /* sidebar-right */
     $(".js-scroll-top").click(function() {
         $("html,body").animate({ scrollTop: $("#wrapper-masthead").offset().top }, 1000)
     });

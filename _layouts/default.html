@@ -17,17 +17,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
     <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/img/logo.png"/>
-    <script type="text/javascript">
-        var ua = navigator.userAgent.toLowerCase();
-        var isWeixin = ua.indexOf('micromessenger') != -1;
-        if (window.location.hostname != "localhost"){
-            if (isWeixin){
-                window.location.href = "http://inerd.onlylemi.com" + window.location.pathname;
-            }else {
-                window.location.href = "http://inerd.cc" + window.location.pathname;
-            }
-        }
-    </script>
+
 </head>
 
 <body>
