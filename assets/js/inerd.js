@@ -18,7 +18,7 @@ $(document).ready(function() {
         }
     }
     if (window.location.pathname == "/") {
-    	document.title = $("#index-title").html().split('：')[1] + " - i ♥ nerd";
+    	document.title = "i ♥ nerd - " + $("#index-title").html().split('：')[1];
     }
 
     // 提交 url 地址
