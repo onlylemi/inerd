@@ -15,6 +15,12 @@ excerpt:
 
 ---
 
+* [`MIT`](http://www.mit.edu/) [MIT最新项目-ROBOTIC SYMBIONTS](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092910&idx=1&sn=1ea11499710c83e49ec99ab143efdcb0&scene=2&srcid=0518YkJFaZaHkrC0Wak8wvP4&from=timeline&isappinstalled=0#wechat_redirect)
+* [`Coldplay`](http://coldplay.com/) [这创意+执行我给100分！Coldplay新单《Up&Up》MV](http://mp.weixin.qq.com/s?__biz=MjM5MjEyOTIyMA==&mid=2651445418&idx=1&sn=bc527e3da0096493224ac0520ba89ddc&scene=2&srcid=0519mVKPT3dDu1LW8gdy39lE&from=timeline&isappinstalled=0#wechat_redirect)
+* [`Found`](http://www.found-studio.com/) [整合各种前沿mapping技术创作未来影像](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478372&idx=1&sn=f15e738757cebee01f025bfdba5b14a3&scene=2&srcid=0519PtaiU7LLKpir8fqRMYaB&from=timeline&isappinstalled=0#wechat_redirect)
+* `Glen Keane` [谷歌发明的VR绘画用软件，设计师们的福音](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478153&idx=1&sn=d644747b55eb86a4e45c98e87ce4d861&scene=0#wechat_redirect)
+* [`任远`](http://yuanren.cc) [Fruit Remix](http://yuanren.cc/fruit-remix/)
+* [`任远`](http://yuanren.cc) [Kaleidoscope](http://yuanren.cc/kaleidoscope/)
 * [`kAi`](http://www.dkaib.com/) [DOWNLOAD YOUR EMOTIONS](http://v.youku.com/v_show/id_XMTU2Njk4OTEzMg==.html?x)
 * [`霍霜霜`](http://shuangshuanghuo.net/) [All in Pieces](https://vimeo.com/127665422)
 * [`某集体`](http://www.moujiti.com/) [数字故宫 - V故宫来啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTc0MDU2NA==&mid=2651288651&idx=1&sn=d2b12db2b1868b090f38d7e2bcc688c6&scene=2&srcid=0429QuKCQNxcdKy4Rjo86HaD&from=timeline&isappinstalled=0#wechat_redirect)

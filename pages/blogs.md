@@ -15,6 +15,12 @@ excerpt:
 
 ---
 
+* [`爱范儿`](http://www.ifanr.com/) [Google I/O 最全记录，看完我们睡不着了！](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2651843213&idx=1&sn=2b9274ce4279c55f7459a2a6b1ad7789&scene=2&srcid=0519tcYRbxiGoBwQwNsVti7d&from=timeline&isappinstalled=0#wechat_redirect)
+* [`DT财经`](http://www.dtcj.com/) [我们用32万条铁路数据，给中国未来“算了一卦”](http://mp.weixin.qq.com/s?__biz=MzA5Mzk5MDM5MA==&mid=2650819659&idx=1&sn=7b51f852496afced5e6f3b7145da53db&scene=2&srcid=0518KeSIfijs0XpEkJwb70qR&from=timeline&isappinstalled=0#wechat_redirect)
+* [`数学的美学世界`](http://weibo.com/mathart) [如何简单形象又有趣地讲解神经网络是什么](http://mp.weixin.qq.com/s?__biz=MjM5MzgwMDI4MQ==&mid=2647508301&idx=1&sn=57d7f35d10db483105cd16ec7c87499c&scene=1&srcid=05176yhCFcJKGWo3ZSPMvzBg&from=groupmessage&isappinstalled=0#wechat_redirect)
+* `Sorock` [脑波交流 夷然自若 ——专访实验音乐人洪启乐](https://site.douban.com/hongqile/widget/notes/400473/note/65966834/?from=groupmessage&isappinstalled=0)
+* [`特赞Tezign`](http://www.tezign.com/) [你在「淘宝」的时候，这位妹纸做出了一个酷炫到爆炸的科学博客](http://mp.weixin.qq.com/s?__biz=MjM5NTMzNzg3NA==&mid=2650600569&idx=1&sn=cd65868183f9aa7c91fa259e126111cb&scene=1&srcid=05093Cg3yVsHqEw2ptd1nBx2&from=groupmessage&isappinstalled=0#wechat_redirect)
+* [`UXRen`](http://uxren.cn/) [2016海归UX就业形势分析及经验分享 - 【UXRen北美线上分享】](http://mp.weixin.qq.com/s?__biz=MzIzMTA3OTY3OQ==&mid=2649706065&idx=1&sn=a76b7f3be27e6cb8f4343e15b4366898&scene=2&srcid=0514PRdH2CJ6FrAoQD5CfEuc&from=timeline&isappinstalled=0#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 周宁奕——阿里巴巴数据可视化工程师、@数学的美学世界创始人](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=400506180&idx=1&sn=1d2af618426e9e740608d44c0d30559b&scene=2&srcid=1021X0gaRkQbHXwt2Imxwcir&from=timeline&isappinstalled=0#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [OF专访 - 张俊——致我们悄然逝去的青春](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=407105803&idx=1&sn=09e0afe4abee9fabadc8a0d6a079af1c&scene=2&srcid=1208mxdxMiAcQ4aNxwX413re&from=timeline&isappinstalled=0#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [数据可视化作品分享 - 陈小艾讲座全记录](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092836&idx=1&sn=1d0c8fce01660a9baae6d9f05d39911e&scene=0#wechat_redirect)
