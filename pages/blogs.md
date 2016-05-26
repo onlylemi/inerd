@@ -7,7 +7,7 @@ tags:
 excerpt:
 ---
 
-## 高质量博文
+## 推荐阅读
 
 ---
 
@@ -15,6 +15,7 @@ excerpt:
 
 ---
 
+* [`OF COURSE`](http://www.ofcourse.io) [Max-MSP音画互动在线试听课全纪录](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093023&idx=1&sn=6e80fb19a6db9abbad2a0e058c2d0f94&scene=0#wechat_redirect)
 * [`爱范儿`](http://www.ifanr.com/) [Google I/O 最全记录，看完我们睡不着了！](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2651843213&idx=1&sn=2b9274ce4279c55f7459a2a6b1ad7789&scene=2&srcid=0519tcYRbxiGoBwQwNsVti7d&from=timeline&isappinstalled=0#wechat_redirect)
 * [`DT财经`](http://www.dtcj.com/) [我们用32万条铁路数据，给中国未来“算了一卦”](http://mp.weixin.qq.com/s?__biz=MzA5Mzk5MDM5MA==&mid=2650819659&idx=1&sn=7b51f852496afced5e6f3b7145da53db&scene=2&srcid=0518KeSIfijs0XpEkJwb70qR&from=timeline&isappinstalled=0#wechat_redirect)
 * [`数学的美学世界`](http://weibo.com/mathart) [如何简单形象又有趣地讲解神经网络是什么](http://mp.weixin.qq.com/s?__biz=MjM5MzgwMDI4MQ==&mid=2647508301&idx=1&sn=57d7f35d10db483105cd16ec7c87499c&scene=1&srcid=05176yhCFcJKGWo3ZSPMvzBg&from=groupmessage&isappinstalled=0#wechat_redirect)

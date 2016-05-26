@@ -15,6 +15,15 @@ excerpt:
 
 ---
 
+* [`Bwave`](http://bwave.org) [我与我交换了平行空间的维度 - Pixel Echo XII 现场回放](http://mp.weixin.qq.com/s?__biz=MzA4MjMwMTA5Ng==&mid=2650985256&idx=1&sn=931114e561e165a8d5688e13342f5234&scene=0#wechat_redirect)
+* [`Tobias Gremmler`](https://vimeo.com/tobiasgremmler) [被数字几何拆解的中国武术，你还认得出来吗？](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478416&idx=2&sn=816f2d3d50258f2c0a05d04b6a312747&scene=0#wechat_redirect)
+* [`石伟力`](http://shi-weili.com/) [世间山水 · Shan Shui in the World](http://shi-weili.com/shan-shui-in-the-world-chinese/)
+* `高文谦` [一位美院姑娘把汉字给弄活了，极具中国特色的沉浸式影像](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478416&idx=1&sn=ec0c7e8bfeba8bbb6479ddc0bdc93050&scene=0#wechat_redirect)
+* [`Millchannel`](http://www.themill.com/) [歪果仁真会玩，用几滴水做了一场show](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478398&idx=1&sn=701a683a0c428b63361c10a925e3546f&scene=2&srcid=0523w8s8jLvTqo2F53rQ3kqe&from=timeline&isappinstalled=0#wechat_redirect)
+* [`朱静文`](http://www.jingwen-zhu.com/) [Jingwen Zhu —— My Heart on My Dress](https://vimeo.com/166727404)
+* [`任远`](http://yuanren.cc) [任远 - 望月怀远](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=225108443&idx=2&sn=c4fc22b5c8b2deeebb3db812ae32cbda&scene=19#wechat_redirect)
+* `Artsbang` [装置 - 孩子们的数字化交互式大玩具](http://mp.weixin.qq.com/s?__biz=MzA5OTM4NTkwNg==&mid=2651145652&idx=1&sn=882d9942892b1bdfad16adb06df2af4f&scene=1&srcid=0511gnst1Jve3ISz8TKGRQxX&from=groupmessage&isappinstalled=0#wechat_redirect)
+* [`任远`](http://yuanren.cc) [Crazy Tetris](http://yuanren.cc/crazy-tetris/)
 * [`MIT`](http://www.mit.edu/) [MIT最新项目-ROBOTIC SYMBIONTS](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092910&idx=1&sn=1ea11499710c83e49ec99ab143efdcb0&scene=2&srcid=0518YkJFaZaHkrC0Wak8wvP4&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Coldplay`](http://coldplay.com/) [这创意+执行我给100分！Coldplay新单《Up&Up》MV](http://mp.weixin.qq.com/s?__biz=MjM5MjEyOTIyMA==&mid=2651445418&idx=1&sn=bc527e3da0096493224ac0520ba89ddc&scene=2&srcid=0519mVKPT3dDu1LW8gdy39lE&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Found`](http://www.found-studio.com/) [整合各种前沿mapping技术创作未来影像](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478372&idx=1&sn=f15e738757cebee01f025bfdba5b14a3&scene=2&srcid=0519PtaiU7LLKpir8fqRMYaB&from=timeline&isappinstalled=0#wechat_redirect)

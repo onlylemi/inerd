@@ -12,6 +12,10 @@ permalink: /workshop/
 
 ---
 
+* ![](https://img.shields.io/badge/Next DJ-2016--05--28-5bc0de.svg) [Next DJ邀请你见证电音界新生代力量的成长！](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650267084&idx=1&sn=72c38075b418b44afc8696c022351098&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/空间站-2016--05--28-97CA00.svg) [【展览预告】我等你——无限的本体时空·田晓磊个展 - 布展现场](http://mp.weixin.qq.com/s?__biz=MjM5MjA1MzY0NQ==&mid=2651514264&idx=1&sn=7173808c4ce406ef1db44968954de7be&scene=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--05--26-5bc0de.svg) [Max-MSP+Arduino音画互动在线试听课](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092967&idx=1&sn=96ab0c1eea82d1190858a5613e91ebaa&scene=2&srcid=0523BbV2ZdUck944qJUc9xGq&from=timeline&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/同济大学设计创意学院-2016--05--26-5bc0de.svg) [五月二十六日周四，界面之外的交互设计](http://mp.weixin.qq.com/s?__biz=MzIzNTI3NTQzMg==&mid=2651627687&idx=1&sn=a9157567a658430fbb0bb74c7e7cbe25&scene=1&srcid=0523wRKxMR4Kc0tCvpad9kqz&from=groupmessage&isappinstalled=0#wechat_redirect)
 * ![](https://img.shields.io/badge/SIMA-2016--05--19-5bc0de.svg) [公开讲演 - 舞蹈－表演－媒介－剧场](http://mp.weixin.qq.com/s?__biz=MzA5NTg1MDkxMg==&mid=2657465713&idx=2&sn=505cf86b5a8ac3139ab666cbda688018&scene=2&srcid=0519TDH6x6q7MP8rVIUQ4npi&from=timeline&isappinstalled=0#wechat_redirect)
 * ![](https://img.shields.io/badge/CAC-2016--05--19-5bc0de.svg) [【CAC·研究/创作】2016研究与创作学术奖金 - 开放申请（截止时间为5月30日）](http://mp.weixin.qq.com/s?__biz=MjM5NzU4NDM5NA==&mid=2650755766&idx=1&sn=9d19cbf3798370748e41f9434beb3725&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/阵风-2016--05--19-97CA00.svg) [魔都博物馆日、旅游日扫馆指南](http://mp.weixin.qq.com/s?__biz=MjM5MDM3OTI3OA==&mid=2650558030&idx=2&sn=aaa6983dce7ddb23a6acf918bf3f50e2&scene=1&srcid=05170q8HcE3cmXfAQDWyCwbw&from=groupmessage&isappinstalled=0#wechat_redirect)
