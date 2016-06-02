@@ -36,8 +36,9 @@ excerpt:
 
 ### Openframeworks
 
-* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（4）－ 图形的运动（下）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224798&idx=1&sn=aeeddcc8493d18e9c26b7c4b8ffc7f46&scene=2&srcid=0526uWHlLFi4DxPEPOwCW2MY&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（3）－ 图形的运动（上）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224786&idx=1&sn=025896f288848e1e7f298f83c9303edb&scene=2&srcid=0516B2emN6yfgMdgqSTIaSPB&from=timeline&isappinstalled=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [创意编程工具安装向导－Processing 与 Openframeworks](http://mp.weixin.qq.com/s?src=3×tamp=1462288766&ver=1&signature=*vpkPm0M2cJ0O4jcEwPMO1*UocCaEgzlXvgFPQejEOJrHBqhbC9buEhADtG-3Sz*zbMBhb9za4dS9piTH04Ut6k8Z8OhdSWpyyICE62MqGIVieyha8hWX5ffPFXLBCVpaZy9eXdNBD*-*aDK-IFvLFVx2XOZ4XMSp*itO8velmw=)
 * [`尤龙`](http://www.loongint.com/) [尤龙 - OF的两篇小教程分享](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=408868636&idx=1&sn=822ebcb0e10426141b22f7e93312ffd7&scene=19#wechat_redirect)
 

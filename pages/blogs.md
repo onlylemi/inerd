@@ -15,6 +15,12 @@ excerpt:
 
 ---
 
+* `周宁奕` [数据狗私房菜『可视化是嘛玩意』](http://mp.weixin.qq.com/s?__biz=MzI2NjI2NDM5Nw==&mid=2247483728&idx=1&sn=bdccf53da98559190467bc2f5b157b13&scene=1&srcid=052971AyroASchSAAhKgDqAl&from=groupmessage&isappinstalled=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 140～149](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224853&idx=1&sn=b81725e51c1df28418021302da277f1f&scene=2&srcid=05275fgN9WpLfEP7Z0ZthGQc&from=timeline&isappinstalled=0#wechat_redirect)
+* [`任远`](http://yuanren.cc) [经验分享：一幅热门信息图诞生的前世今生](http://www.uisdc.com/popular-information-map-was-born?from=groupmessage&isappinstalled=0)
+* [`任远`](http://yuanren.cc) [中国数据新闻工作坊培训手册第七章 – 可视化设计师应具备的能力](http://djchina.org/2015/09/02/china-data-journalism-training-designer/?from=groupmessage&isappinstalled=0)
+* [`任远`](http://yuanren.cc) [财新: Empire Building 数据可视化开发总结](http://djchina.org/2014/06/21/caixin-empirebuilding/?from=groupmessage&isappinstalled=0)
+* [`任远`](http://yuanren.cc) [财新设计师：数据新闻实践经验谈 2.0](http://djchina.org/2014/12/26/sharing-caixin-designer_2/?from=groupmessage&isappinstalled=0)
 * [`OF COURSE`](http://www.ofcourse.io) [Max-MSP音画互动在线试听课全纪录](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093023&idx=1&sn=6e80fb19a6db9abbad2a0e058c2d0f94&scene=0#wechat_redirect)
 * [`爱范儿`](http://www.ifanr.com/) [Google I/O 最全记录，看完我们睡不着了！](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2651843213&idx=1&sn=2b9274ce4279c55f7459a2a6b1ad7789&scene=2&srcid=0519tcYRbxiGoBwQwNsVti7d&from=timeline&isappinstalled=0#wechat_redirect)
 * [`DT财经`](http://www.dtcj.com/) [我们用32万条铁路数据，给中国未来“算了一卦”](http://mp.weixin.qq.com/s?__biz=MzA5Mzk5MDM5MA==&mid=2650819659&idx=1&sn=7b51f852496afced5e6f3b7145da53db&scene=2&srcid=0518KeSIfijs0XpEkJwb70qR&from=timeline&isappinstalled=0#wechat_redirect)

@@ -15,6 +15,15 @@ excerpt:
 
 ---
 
+* [`Lisa Park`](http://www.thelisapark.com) [她做的超大蒲公英，没想到这么神奇](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478535&idx=2&sn=c2552c88eaf5c03a9d8af1d785d01086&scene=0#wechat_redirect)
+* [`微软`](http://wndw.ms/rcSKZ2) [微软开发VR、AR混合现实，设计师们的又一福音](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478535&idx=1&sn=56ca871a94f7235677062dd909addc94&scene=0#wechat_redirect)
+* [`Atelier Markgraph工作室`](https://www.markgraph.de/) [动次打次！看奔驰概念车如何出场](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478517&idx=1&sn=43d33eda26fc4b5675e43bed0ad3ed3d&scene=0#wechat_redirect)
+* [`Adidas`](http://www.adidas.com/) [Adidas现场激情秀，雷雨交加](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478506&idx=1&sn=b5b37f277bf28f1c155fe2f312220749&scene=0#wechat_redirect)
+* [`Exile工作室`](http://exile.at/ego/) [火柴人的新玩法，看到群魔乱舞的自己！](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478496&idx=2&sn=74b9297aa239c71236831bb6931e7cf8&scene=0#wechat_redirect)
+* [`周美欣`](http://weibo.com/u/1914994980) [美院姑娘的独白·字娱字乐，讲述新媒体互动感应书](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478478&idx=1&sn=d75fc2a0290c12b211432848bbfded86&scene=0#wechat_redirect)
+* [`Tangible Media Group`](http://tangible.media.mit.edu/) [钢琴上行走的音乐精灵](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478478&idx=2&sn=fba9dfb94548d01ce1cff783aa5e037c&scene=0#wechat_redirect)
+* [`财新数据可视化实验室`](http://vislab.caixin.com/) [财新网：周永康的人与财交互演示](http://datanews.caixin.com/2014/zhoushicailu/)
+* `夏迪文` [【Floratopia】她创造了一个花朵异托邦的新世界](http://mp.weixin.qq.com/s?__biz=MzI0NzM5ODQxNw==&mid=2247483710&idx=1&sn=806a75a264eb4070b9597d32cc0d98bb&scene=2&srcid=0527jKi3KdBrJ5LG0kAx9enn&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Bwave`](http://bwave.org) [我与我交换了平行空间的维度 - Pixel Echo XII 现场回放](http://mp.weixin.qq.com/s?__biz=MzA4MjMwMTA5Ng==&mid=2650985256&idx=1&sn=931114e561e165a8d5688e13342f5234&scene=0#wechat_redirect)
 * [`Tobias Gremmler`](https://vimeo.com/tobiasgremmler) [被数字几何拆解的中国武术，你还认得出来吗？](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478416&idx=2&sn=816f2d3d50258f2c0a05d04b6a312747&scene=0#wechat_redirect)
 * [`石伟力`](http://shi-weili.com/) [世间山水 · Shan Shui in the World](http://shi-weili.com/shan-shui-in-the-world-chinese/)

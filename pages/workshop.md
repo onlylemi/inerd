@@ -12,6 +12,11 @@ permalink: /workshop/
 
 ---
 
+* ![](https://img.shields.io/badge/北京时代美术馆-2016--06--08-97CA00.svg) [【时代·展讯】“触摸DE概念—公共艺术展”将在五棵松开展！](http://mp.weixin.qq.com/s?__biz=MjM5ODUyMDcyMg==&mid=2649821531&idx=1&sn=ad7be2fe821c50aa0de65f388992d16d&scene=2&srcid=06015rSvqePuL5TShL1uou7Y&from=timeline&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/柴火创客空间-2016--06--04-5bc0de.svg) [#分享会 - 科技与艺术的碰撞，知名新媒体艺术家本周六空降柴火](http://mp.weixin.qq.com/s?__biz=MjM5MjIzNDAxNA==&mid=504467984&idx=1&sn=0cead869f6e716e9646770a90042ddcd&scene=1&srcid=05303mHtFOravMnxsvrVACb6&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/开放数据中国-2016--06--03-5bc0de.svg) [全城热动，上海开放数据周即将启动！](http://mp.weixin.qq.com/s?__biz=MzA5Mzc1OTk2OQ==&mid=2650893151&idx=1&sn=5291c24ab7900cf1001cda1dd0f32321&scene=1&srcid=0529q8ePBWqO2oCTUMdfWo9a&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/OF COURSE-2016--06--01-5bc0de.svg) [设计之美与数字之美-Javascript创意编程在线试听课](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093066&idx=1&sn=8ef405c18f5c9e39b467f21c388cf9c8&scene=0&from=groupmessage&isappinstalled=0#wechat_redirect)
+* ![](https://img.shields.io/badge/SIMA-2016--05--30-5bc0de.svg) [工作坊 -「展览电影」工作坊·之二](http://mp.weixin.qq.com/s?__biz=MzA5NTg1MDkxMg==&mid=509982039&idx=1&sn=c027b24ad09b39b665ce6d59680a65bb&scene=1&srcid=0515BaM3K9jZmITFHzIeNw8w&from=groupmessage&isappinstalled=0#wechat_redirect)
 * ![](https://img.shields.io/badge/Next DJ-2016--05--28-5bc0de.svg) [Next DJ邀请你见证电音界新生代力量的成长！](http://mp.weixin.qq.com/s?__biz=MzA5NzQwNDE0MA==&mid=2650267084&idx=1&sn=72c38075b418b44afc8696c022351098&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/空间站-2016--05--28-97CA00.svg) [【展览预告】我等你——无限的本体时空·田晓磊个展 - 布展现场](http://mp.weixin.qq.com/s?__biz=MjM5MjA1MzY0NQ==&mid=2651514264&idx=1&sn=7173808c4ce406ef1db44968954de7be&scene=0#wechat_redirect)
 * ![](https://img.shields.io/badge/OF COURSE-2016--05--26-5bc0de.svg) [Max-MSP+Arduino音画互动在线试听课](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665092967&idx=1&sn=96ab0c1eea82d1190858a5613e91ebaa&scene=2&srcid=0523BbV2ZdUck944qJUc9xGq&from=timeline&isappinstalled=0#wechat_redirect)
