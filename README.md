@@ -6,6 +6,7 @@
 
 * Email: [onlylemi.com(AT)gmail.com](mailto:onlylemi.com@gmail.com)
 * Wechat：@xiaomi-0623
+* Weibo：@[only乐秘](http://weibo.com/xiaomi0623)
 
 ---
 

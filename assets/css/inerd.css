@@ -630,7 +630,7 @@ blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, block
 .partner-logos ul li {
     list-style: none;
     float: left;
-    width: 50%;
+    width: 25%;
     height: 25%;
     margin-bottom: 2em;
 }
