@@ -15,6 +15,17 @@ excerpt:
 
 ---
 
+* [`任远`](http://yuanren.cc) [POETRY?](http://yuanren.cc/poetry3/?from=timeline&isappinstalled=0)
+* [`Friendred`](http://www.zcool.com.cn/u/1889227) [空间交互投影装置Red Psycho](http://www.zcool.com.cn/work/ZMTY4Mzc4NzI=/1.html)
+* [`Wenzy`](http://weibo.com/wenziyang) [Symmys is online !](https://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225004&idx=1&sn=21a06e737d45d886d80886d7555bf04c&scene=0&key=77421cf58af4a65358bcf4c23515439f68a93a19155e8ef08ab62cf28f3de50888dd7a91d98eff659b54cfb16a28287a&ascene=7&uin=MjgyOTM3MDA4MA%3D%3D&devicetype=iPhone+OS9.3.2&version=16031610&nettype=WIFI&fontScale=94&pass_ticket=hG%2FdR1hhI7%2B%2FESCVhiXcitfKUu0SMvWdzzxSoie4rPWxktqGmyabIT1UioE6M%2FA1)
+* [`Tobias Gremmler`](http://www.syncon-d.com) [当中国戏曲人物遇上现代数字技术，你还能认出是谁吗？](https://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478956&idx=1&sn=fe3c26bff77e008f91323b66b69f10e6&scene=0&key=77421cf58af4a653408079a950f7a2960510560f9dbd240d0d4cd89ab018bdb9d4f7e75cb048ef99585d7a2f3ebe9673&ascene=7&uin=MjgyOTM3MDA4MA%3D%3D&devicetype=iPhone+OS9.3.2&version=16031610&nettype=WIFI&fontScale=94&pass_ticket=hG%2FdR1hhI7%2B%2FESCVhiXcitfKUu0SMvWdzzxSoie4rPWxktqGmyabIT1UioE6M%2FA1)
+* [`REDSKY`](http://www.redskyhci.com) [这件作品 你想睡它吗？](https://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478968&idx=1&sn=a0b2643775a78825d0a149885d0be878&scene=0&key=77421cf58af4a65307976475a7adc0766825d4568387a0805f793159b35b98bc8083093eefdec526a2e613e506216968&ascene=7&uin=MjgyOTM3MDA4MA%3D%3D&devicetype=iPhone+OS9.3.2&version=16031610&nettype=WIFI&fontScale=94&pass_ticket=hG%2FdR1hhI7%2B%2FESCVhiXcitfKUu0SMvWdzzxSoie4rPWxktqGmyabIT1UioE6M%2FA1)
+* [`.mill`](http://dot-mill.com/) [3位街舞少年，为 雪弗兰 做的惊艳表演](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478652&idx=1&sn=5fcb8154929871c9b0397fb005d5ee28&scene=0#wechat_redirect)
+* [`Cinimod Studio`](http://cinimodstudio.com/) [Adobe Summit 2016现场一次奇妙而愉快的体验](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478643&idx=1&sn=720eaa043d58d45126723bc05aa39d0c&scene=0#wechat_redirect)
+* [`Mark Eats`](http://www.markeats.com/) [这位艺术家创作了可以互动的“旋转银河”](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478629&idx=1&sn=025ccf87c6184cfae89355be9ffb1b66&scene=0#wechat_redirect)
+* [`Eric Paré`](https://ericpare.com/) [光绘大玩家的眩目人像](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478607&idx=1&sn=319e34c7867d560106909a7383323755&scene=0#wechat_redirect)
+* `林万山` [这个拥有摩托改装工作室的中国小伙，做了个脑洞动画](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478597&idx=1&sn=169807f7bafafc93d22dc01dac41cba1&scene=0#wechat_redirect)
+* `Microsoft Research` [Microsoft Research-智能程序构建完美天空](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093206&idx=1&sn=90132a11d569ab1f20b0fb96e902c6bc&scene=0#wechat_redirect)
 * [`Lisa Park`](http://www.thelisapark.com) [她做的超大蒲公英，没想到这么神奇](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478535&idx=2&sn=c2552c88eaf5c03a9d8af1d785d01086&scene=0#wechat_redirect)
 * [`微软`](http://wndw.ms/rcSKZ2) [微软开发VR、AR混合现实，设计师们的又一福音](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478535&idx=1&sn=56ca871a94f7235677062dd909addc94&scene=0#wechat_redirect)
 * [`Atelier Markgraph工作室`](https://www.markgraph.de/) [动次打次！看奔驰概念车如何出场](http://mp.weixin.qq.com/s?__biz=MzA3NDY1NDcyMw==&mid=2651478517&idx=1&sn=43d33eda26fc4b5675e43bed0ad3ed3d&scene=0#wechat_redirect)

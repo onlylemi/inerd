@@ -13,6 +13,9 @@ excerpt:
 
 ### Processing
 
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的趣味编程指南7（Processing篇）- 程序流程控制－条件语句 (下)](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225094&idx=1&sn=5f55033fd8127f328332c07f667835d4&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的趣味编程指南6（Processing篇）- 程序流程控制－条件语句 (上)](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224955&idx=1&sn=aa08f7bb0ab97fad8c34a3b1b478049a&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的趣味编程指南5（Processing篇）- 程序的流程控制-循环语句](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224854&idx=1&sn=4e2ad67aef7d31d803dc77b7fda7b0eb&scene=2&srcid=0603r0Kayzobk5ZxQBoriNcR&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [［源代码］－ Test 96 变换动画](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224710&idx=1&sn=5c939507015601cc8c4f783af4057daa&scene=4#wechat_redirect)
 * [`宜昌城老张`](http://www.eefocus.com/zhang700309/blog/) [在安卓手机上运行Processing程序的方法](http://www.eefocus.com/zhang700309/blog/14-12/307377_88e74.html)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [［Gif代码分享］ - Test 82 从圆开始](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=403048447&idx=1&sn=3d9d3197881ab1f58b161b9f36185fbd&scene=4#wechat_redirect)
@@ -36,22 +39,20 @@ excerpt:
 
 ### Openframeworks
 
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南6 - 程序流程控制－条件语句 (上)](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224955&idx=2&sn=22ad63289e0cc5399192bd433f268180&scene=0)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南7 - 程序流程控制－条件语句 (下)](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225094&idx=2&sn=2a3606bc5bb4f80a7a30795205e6f17f&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（5）－ 程序的流程控制-循环语句](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224854&idx=2&sn=a6cf14a004be938922a4db2a3dccc39e&scene=2&srcid=06030GZc7gf21u58bmDvY0Il&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（4）－ 图形的运动（下）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224798&idx=1&sn=aeeddcc8493d18e9c26b7c4b8ffc7f46&scene=2&srcid=0526uWHlLFi4DxPEPOwCW2MY&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（3）－ 图形的运动（上）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224786&idx=1&sn=025896f288848e1e7f298f83c9303edb&scene=2&srcid=0516B2emN6yfgMdgqSTIaSPB&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的OF编程指南（2） - 创造第一个Openframeworks程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224777&idx=1&sn=029d12cc3598bc8fd2c01e18b538af23&scene=2&srcid=0510VZOBDDufCIlf7M3wdLnI&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [创意编程工具安装向导－Processing 与 Openframeworks](http://mp.weixin.qq.com/s?src=3×tamp=1462288766&ver=1&signature=*vpkPm0M2cJ0O4jcEwPMO1*UocCaEgzlXvgFPQejEOJrHBqhbC9buEhADtG-3Sz*zbMBhb9za4dS9piTH04Ut6k8Z8OhdSWpyyICE62MqGIVieyha8hWX5ffPFXLBCVpaZy9eXdNBD*-*aDK-IFvLFVx2XOZ4XMSp*itO8velmw=)
 * [`尤龙`](http://www.loongint.com/) [尤龙 - OF的两篇小教程分享](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=408868636&idx=1&sn=822ebcb0e10426141b22f7e93312ffd7&scene=19#wechat_redirect)
 
-### WebGL
+### Other
 
+* [`Google`](https://github.com/googlecreativelab/anypixel) [“一触千发”交互巨幕—谷歌开源软件与硬件库AnyPixel.js](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093134&idx=1&sn=8c0d440c9ba9d58c93a81d58ac6da72a&scene=0#wechat_redirect)
 * [`Milk`](http://mirukuchow.squarespace.com/) [Milk - 探索H5平台的创意代码](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=409188007&idx=1&sn=1ca981a56d0c3d100840d8ff193a5641&scene=21#wechat_redirect)
 * [`Milk`](http://mirukuchow.squarespace.com/) [只要五分钟！用H5【 Canvas】搭建粒子系统](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=410505216&idx=1&sn=c1d3bd691cb119918e50eccd0a791ce4&scene=19#wechat_redirect)
 * [`Milk`](http://mirukuchow.squarespace.com/) [码玩年/ three.js playGnd](http://mp.weixin.qq.com/s?__biz=MzAwMzc5ODM1OA==&mid=415085770&idx=1&sn=b76515044dc91b1468b9c5efdeee7985&scene=4#wechat_redirect)
-
-### Music Visual
-
 * [`onlylemi`](http://onlylemi.com) [任远老师在OF COURSE音乐可视化liveingcoding代码](https://github.com/onlylemi/MusicVisual)
-
-### Shader
-
 * [`Milk`](http://mirukuchow.squarespace.com/) [Shader不再是玄学／浅谈着色器语言](http://mp.weixin.qq.com/s?__biz=MzAwMzc5ODM1OA==&mid=416194916&idx=1&sn=8813c1fb1c7ab8841f46a644bd18cb86&scene=4#wechat_redirect)
