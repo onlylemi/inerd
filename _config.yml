@@ -28,6 +28,7 @@ url: ''
 enforce_ssl: ''
 
 baseurl: ""
+url: "http://inerd.cc"
 
 markdown: kramdown
 highlighter: rouge

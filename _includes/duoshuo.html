@@ -1,8 +1,8 @@
 <!-- 多说评论框 start -->
 {% if post.url %}
-<div class="ds-thread" data-thread-key="{{ post.url }}" data-title="{{ post.title }}" data-url="{{ post.url }}"></div>
+<div class="ds-thread" data-thread-key="{{ post.url }}" data-title="{{ post.title }}" data-url="{{ site.url }}{{ post.url }}"></div>
 {% else %}
-<div class="ds-thread" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ page.url }}"></div>
+<div class="ds-thread" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div>
 {% endif %}
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
