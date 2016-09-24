@@ -1,10 +1,7 @@
 ---
 layout: page
 title: 创意编程干货资源福利
-permalink: /resource/
-category:
-tags:
-excerpt:
+permalink: 
 ---
 
 ### Processing

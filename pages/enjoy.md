@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 这些作品好厉害啊
-permalink: /works/
+title: 不得不看的牛人作品
+permalink: /enjoy/
 category:
 tags:
 excerpt:
 ---
 
-## Works
+## 佳作欣赏
 
 ---
 

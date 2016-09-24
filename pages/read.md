@@ -1,17 +1,13 @@
 ---
 layout: page
-title: 你不得不读的深度文章
-permalink: /blogs/
+title: 不得不读的深度好文
+permalink: /read/
 category:
 tags:
 excerpt:
 ---
 
 ## 推荐阅读
-
----
-
-[![](http://img.zcool.cn/community/017fbd55fa42ca6ac7251df8c5add9.jpg@900w_1l_2o)](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=224291223&idx=1&sn=4ab8918f98594b6d29af098e690770d4&scene=1&srcid=0501um91rEfv75gA9c7KOrKD#wechat_redirect)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: 快进来瞅瞅
 permalink: /about/
 ---
