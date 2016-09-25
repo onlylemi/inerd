@@ -11,7 +11,9 @@ excerpt:
 
 ---
 
-[![](http://yuanren.cc/wp-content/uploads/2016/04/11010110_Cover.png)](http://yuanren.cc/11010110/)
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://player.youku.com/embed/XMTY0MTE3NTEwOA==" allowtransparency="true" allowfullscreen="true"></iframe>
+</div>
 
 ---
 
