@@ -17,9 +17,9 @@ $(document).ready(function() {
             window.location.href = "http://inerd.cc" + window.location.pathname;
         }
     }
-    if (window.location.pathname == "/") {
-    	document.title = "i ♥ nerd - " + $("#index-title").html().split('：')[1];
-    }
+    // if (window.location.pathname == "/") {
+    // 	document.title = "i ♥ nerd - " + $("#index-title").html().split('：')[1];
+    // }
 
     // 提交 url 地址
     $("#sub-url-submit").click(function() {

@@ -11,6 +11,7 @@ excerpt:
 
 ---
 
+* `最美应用` [他用一年半的时间从设计走向编程，而后又将二者完美融合](http://mp.weixin.qq.com/s?__biz=MjM5MTA2NjI0MQ==&mid=2650695242&idx=1&sn=40a3b3d90c77f439f5b07b74cc152251&scene=2&srcid=0804nEB1l2nDygjwR5dcToZB&from=timeline&isappinstalled=0#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [响铛燃Ding Dang Fire第二期 - Processing是个啥？](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093619&idx=1&sn=7924766222e71840143682aae9240d83&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [CreativeCoding资源索引－值得关注的twitter账号](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224959&idx=1&sn=ebd7597e598db31cb6c8e7f4cb84bd09&scene=0#wechat_redirect)
 * [`OF COURSE`](http://www.ofcourse.io) [OF专访 - Parsons研究生的虚拟现实增强设备，用双手感受来自另一个世界的生命脉搏](https://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093356&idx=1&sn=9512a92790f5278bc7c810c56b9bec53&scene=0&key=77421cf58af4a653ff5e2c267470efeb13d72cb740d9d7aa3f141c79315193b25af184e664c450f9e15510b95815d4ac&ascene=7&uin=MjgyOTM3MDA4MA%3D%3D&devicetype=iPhone+OS9.3.2&version=16031610&nettype=WIFI&fontScale=94&pass_ticket=hG%2FdR1hhI7%2B%2FESCVhiXcitfKUu0SMvWdzzxSoie4rPWxktqGmyabIT1UioE6M%2FA1)
