@@ -6,7 +6,7 @@ permalink:
 
 ### Processing
 
-* [`Processing`](http://inerd.cc/resource/#processing) [写给设计师的 Processing 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=1&sn=b1f05819a0b42c981abf7e5c0de41a2e&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=1&sn=b1f05819a0b42c981abf7e5c0de41a2e&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（11）数据储物箱](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225432&idx=1&sn=cacd4a65ee1742c1d21e09ffeb54c18c&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（10）媒体加载与事件](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225364&idx=1&sn=081c813cb0d91fffb98bd860ca8aa722&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（9）色彩控制](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225192&idx=1&sn=394792603a91f1ab3bbec76ae3e903be&scene=4#wechat_redirect)
@@ -46,7 +46,7 @@ permalink:
 
 ### Openframeworks
 
-* [`Openframeworks`](http://inerd.cc/resource/#openframeworks) [写给设计师的 OF 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=2&sn=d93dd0e777c08102162901e403f2c716&scene=0#wechat_redirect)
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=2&sn=d93dd0e777c08102162901e403f2c716&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（11）数据储物箱](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225432&idx=2&sn=8b8ab9322e9fab62238d7a0bd75f1d23&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（10）媒体加载与事件](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225364&idx=2&sn=2d4820298c6d538ed1415c7bd6460275&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（9）色彩控制](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225192&idx=2&sn=244752f6a19bea5fbb5d207ad6791303&scene=4#wechat_redirect)
