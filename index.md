@@ -6,6 +6,7 @@ permalink:
 
 ### Processing
 
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（13）3D 绘图](http://mp.weixin.qq.com/s/mcbs0M4bTuvPflT8dptZJg)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=1&sn=b1f05819a0b42c981abf7e5c0de41a2e&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（11）数据储物箱](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225432&idx=1&sn=cacd4a65ee1742c1d21e09ffeb54c18c&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（10）媒体加载与事件](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225364&idx=1&sn=081c813cb0d91fffb98bd860ca8aa722&scene=4#wechat_redirect)
@@ -16,8 +17,8 @@ permalink:
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 Processing 编程指南－（5）程序的流程控制-循环语句](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651224854&idx=1&sn=4e2ad67aef7d31d803dc77b7fda7b0eb&scene=2&srcid=0603r0Kayzobk5ZxQBoriNcR&from=timeline&isappinstalled=0#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（4）让图形跑起来（下）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=207605688&idx=1&sn=790074a112e31f4f844e99340e346d4e&scene=1&srcid=0501simQftFT389Wv2GdxEs2#wechat_redirect)
 * [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（3）让图形跑起来（上）](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206959674&idx=1&sn=e44b7c98b88d88a8f04d500132a93d9d&scene=1&srcid=0501rYGTyyjuBU9ygqolOMIy#wechat_redirect)
-* [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（2）创造第一个Processing程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206431158&idx=1&sn=c9eaa81b6887f613240dbddf15044872&scene=1&srcid=0501CPaQbvlMemTyy9c4JsDN#wechat_redirect)
-* [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（1）Processing初接触](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206393408&idx=1&sn=bdbffc722a7e18cd70d4f6656e0be71d&scene=1&srcid=0501e2enZMCfwEYDlpUAnKcj#wechat_redirect)
+* [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（2）创造第一个 Processing 程序](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206431158&idx=1&sn=c9eaa81b6887f613240dbddf15044872&scene=1&srcid=0501CPaQbvlMemTyy9c4JsDN#wechat_redirect)
+* [`Wenzy`](http://wenzy.zcool.com.cn) [写给设计师的 Processing 编程指南－（1）Processing 初接触](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=206393408&idx=1&sn=bdbffc722a7e18cd70d4f6656e0be71d&scene=1&srcid=0501e2enZMCfwEYDlpUAnKcj#wechat_redirect)
 
 ---
 
@@ -34,6 +35,7 @@ permalink:
 
 ---
 
+* [`Wenzy`](http://weibo.com/wenziyang) [绘画与编程 － Processing 实现自动配色](http://mp.weixin.qq.com/s/4Y6Y5hEfQ3s1re8wxU2l7g)
 * [`Processing知乎专栏`](https://www.zhihu.com/topic/19605971/top-answers) [apple store里的这幅图如何用 processing、Photoshop 或者AI做出来？](https://www.zhihu.com/question/27917305)
 * [`Processing知乎专栏`](https://www.zhihu.com/topic/19605971/top-answers) [这种透明LOWPOLY效果是怎么做出来的？](https://www.zhihu.com/question/36987369)
 * [`Prezi_暗流`](http://weibo.com/prezinb) [Processing 中制作光晕（发光）效果及导出动画为gif](http://tieba.baidu.com/p/3088764775)
@@ -46,6 +48,7 @@ permalink:
 
 ### Openframeworks
 
+* [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（13）3D 绘图](http://mp.weixin.qq.com/s/2NKqAEmAvQz194OvYoufPQ)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（12）类与对象](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225527&idx=2&sn=d93dd0e777c08102162901e403f2c716&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（11）数据储物箱](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225432&idx=2&sn=8b8ab9322e9fab62238d7a0bd75f1d23&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [写给设计师的 OF 编程指南－（10）媒体加载与事件](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225364&idx=2&sn=2d4820298c6d538ed1415c7bd6460275&scene=4#wechat_redirect)
@@ -66,6 +69,8 @@ permalink:
 
 ### Other
 
+* [`Wenzy`](http://weibo.com/wenziyang) [体感“神器” Leapmotion 使用小结](http://mp.weixin.qq.com/s/dYUstQHT2fPEG2-CZ6yf0w)
+* [`Wenzy`](http://weibo.com/wenziyang) [用莫比乌斯带巧解内接矩形问题：拓扑学的妙用](http://mp.weixin.qq.com/s/vsnyicu7TNoYBNu_ZW1aYg)
 * [`Google`](https://github.com/googlecreativelab/anypixel) [“一触千发”交互巨幕—谷歌开源软件与硬件库AnyPixel.js](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=2665093134&idx=1&sn=8c0d440c9ba9d58c93a81d58ac6da72a&scene=0#wechat_redirect)
 * [`Milk`](http://mirukuchow.squarespace.com/) [Milk - 探索H5平台的创意代码](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=409188007&idx=1&sn=1ca981a56d0c3d100840d8ff193a5641&scene=21#wechat_redirect)
 * [`Milk`](http://mirukuchow.squarespace.com/) [只要五分钟！用H5【 Canvas】搭建粒子系统](http://mp.weixin.qq.com/s?__biz=MzA4NTc5MDU5OQ==&mid=410505216&idx=1&sn=c1d3bd691cb119918e50eccd0a791ce4&scene=19#wechat_redirect)
@@ -77,6 +82,8 @@ permalink:
 
 ### 代码欣赏
 
+* [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 230～239](http://mp.weixin.qq.com/s/NjKHXbxIu076YlLLnJHI6Q)
+* [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 220～229](http://mp.weixin.qq.com/s/uK5fEekykjtm0cmzoLB2eg)
 * [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 210～219](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225526&idx=1&sn=9b76ce8afed2d5872e6f38d28a004009&scene=0#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 200～209](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225431&idx=1&sn=7b71c42a7fb30932d6d596134f1b53da&scene=4#wechat_redirect)
 * [`Wenzy`](http://weibo.com/wenziyang) [代码速写 - Test 190～199](http://mp.weixin.qq.com/s?__biz=MzA5OTgyMDk3Mg==&mid=2651225335&idx=1&sn=d1b31ffec04186d24a462c4364f8c0ba&scene=4#wechat_redirect)
