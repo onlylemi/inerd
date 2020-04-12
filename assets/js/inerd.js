@@ -54,7 +54,7 @@ $(document).ready(function() {
         //     }
         //     $("#sub-url").val("");
         // });
-        window.open("https://github.com/onlylemi/inerd/issues/new");
+        window.open("https://github.com/onlylemi/inerd/issues/new?assignees=&labels=%E5%B9%B2%E8%B4%A7&template=---template.md");
     });
 
     function isURL(url) {
