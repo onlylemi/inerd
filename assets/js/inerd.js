@@ -27,33 +27,34 @@ $(document).ready(function() {
         var url = $("#sub-url").val();
         var finder = $("#sub-url-finder").val();
 
-        if (url == "") {
-            alert("\n\n老大，您的干货 URL 地址呢，我怎么没看到！\n\n");
-            return;
-        }
+        // if (url == "") {
+        //     alert("\n\n老大，您的干货 URL 地址呢，我怎么没看到！\n\n");
+        //     return;
+        // }
 
-        if (!isURL(url)) {
-            alert("\n\n别捣乱啊，输入正确的 URL 地址 ！！！\n\n");
-            return;
-        }
+        // if (!isURL(url)) {
+        //     alert("\n\n别捣乱啊，输入正确的 URL 地址 ！！！\n\n");
+        //     return;
+        // }
 
-        if (finder == "") {
-            alert("\n\n老大，请留下您的大名！！！\n\n");
-            return;
-        }
+        // if (finder == "") {
+        //     alert("\n\n老大，请留下您的大名！！！\n\n");
+        //     return;
+        // }
 
-        var request_url = "http://onlylemi.com/inerd/public/sub_url.php?callback=?";
-        // alert(request_url);
-        $.getJSON(request_url, { "type": type, "finder": finder, "url": url }, function(data) {
-            if (data.state == "exist") {
-                alert("\n\n老大，您提交的资源已经被其他人提交了！\n\n换一个试试！\n\n");
-            } else if (data.state == "success") {
-                alert("\n\n非常感谢，您提交的资源我们已经收到！\n\n");
-            } else if (data.state == "none") {
-                alert("\n\n服务器正在维护中，请稍等！！！\n\n");
-            }
-            $("#sub-url").val("");
-        });
+        // var request_url = "http://onlylemi.com/inerd/public/sub_url.php?callback=?";
+        // // alert(request_url);
+        // $.getJSON(request_url, { "type": type, "finder": finder, "url": url }, function(data) {
+        //     if (data.state == "exist") {
+        //         alert("\n\n老大，您提交的资源已经被其他人提交了！\n\n换一个试试！\n\n");
+        //     } else if (data.state == "success") {
+        //         alert("\n\n非常感谢，您提交的资源我们已经收到！\n\n");
+        //     } else if (data.state == "none") {
+        //         alert("\n\n服务器正在维护中，请稍等！！！\n\n");
+        //     }
+        //     $("#sub-url").val("");
+        // });
+        window.open("https://github.com/onlylemi/inerd/issues/new");
     });
 
     function isURL(url) {

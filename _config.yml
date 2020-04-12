@@ -42,7 +42,7 @@ kramdown:
     - smart
   enable_coderay: true
   syntax_highlighter: rouge
-  coderay:
+  syntax_highlighter_opts:
     coderay_line_numbers: inline
 
 version: v1.1.0
